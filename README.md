@@ -1,2 +1,4 @@
 # hello-word
-Ejercicio para crear repositorio
+Hey,
+
+Aqui aprendiendo Github :)
